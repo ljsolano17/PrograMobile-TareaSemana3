@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "755246513620",
+    "project_id": "ufidepdf",
+    "storage_bucket": "ufidepdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755246513620:android:69afbe1c86b41bd5902a41",
+        "android_client_info": {
+          "package_name": "com.example.tareapdf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755246513620-p5k65ftregbuac3rbnafqr4nhcgkshb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8-C-vWivUeIKIptPKrXHCr5KBrCOFydI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755246513620-p5k65ftregbuac3rbnafqr4nhcgkshb9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
